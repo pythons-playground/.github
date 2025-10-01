@@ -1,12 +1,12 @@
 <!-- Banner / Cover Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-org-name/.github/main/profile/banner.png" alt="AI & Cybersecurity Labs" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Python's Playground" />
 </p>
 
-<h1 align="center">🤖 AI & Cybersecurity Labs 🔐</h1>
+<h1 align="center">🐍 Python's Playground 🚀</h1>
 
 <p align="center">
-  <em>Exploring the future with Artificial Intelligence, Machine Learning, and Cybersecurity.</em>
+  <em>A hub for Python enthusiasts exploring AI, Web, Data Science, and Cybersecurity.</em>
 </p>
 
 ---
@@ -14,54 +14,53 @@
 ## 👋 About Me — Biswajeet Mishra
 
 Hello World! I'm **Biswajeet Mishra** ✨  
-An enthusiastic **Full-Stack Java Developer** with strong skills in **Java, React, Spring Boot, and Python**.  
-I’m passionate about building impactful projects and expanding into **AI/ML and Cybersecurity**.  
+An enthusiastic **Full-Stack Developer** with strong skills in **Java, React, Spring Boot, and Python**.  
+Through this organization, I’m focusing entirely on **Python and its powerful ecosystem**.  
 
 - 🔭 Currently working at **Raconsys Consultancy Services**  
-- 🌱 Currently emphasizing on **MERN Stack & Spring Boot**  
+- 🌱 Currently emphasizing on **MERN Stack, Spring Boot, and Python AI/ML**  
 - 👨‍💻 All my projects: [GitHub @Biswajeet5875](https://github.com/Biswajeet5875)  
 - 📫 Reach me: **cdt.king75@gmail.com** | **+91-9692732403**  
 - 📄 My Resume: *Available on request*  
-- ⚡ Fun fact: I love creating websites and improving each one over the previous.  
-- 📊 Total Repositories: **81+ and growing!**
+- ⚡ Fun fact: Python is my playground — I love experimenting with new libraries and frameworks.  
 
 ---
 
 ## 🚀 About This Organization
-This organization is my **innovation hub** for learning and experimenting with:  
+**Python’s Playground** is my dedicated space for learning, experimenting, and building projects with **Python** and its libraries:  
 
-- 🐍 **Python for AI/ML**  
-- 🤖 **Deep Learning & Neural Networks**  
-- 📊 **Data Science & Analytics**  
-- 🔐 **Cybersecurity Tools & Scripts**  
-- 🌐 **Networking & Ethical Hacking Utilities**  
+- 🤖 **AI/ML & Deep Learning** → TensorFlow, PyTorch, Scikit-learn  
+- 📊 **Data Science** → Pandas, NumPy, Matplotlib, Seaborn  
+- 🌐 **Web Development** → Django, Flask, FastAPI, Streamlit  
+- 🔐 **Cybersecurity & Networking** → Paramiko, Nmap, Requests, Socket  
+- ⚡ **Automation & Scripting** → Selenium, BeautifulSoup, PyAutoGUI  
 
-My mission here:  
-👉 To **learn, build, and share** cutting-edge projects that combine **software development, AI/ML, and Cybersecurity**.  
+👉 The mission: to create a **centralized showcase** of Python’s versatility across different domains.  
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 [ML-Projects](https://github.com/your-org-name/ml-projects) | Hands-on ML models & algorithms | Python, Scikit-learn, Pandas |
-| 🤖 [Deep-Learning-Models](https://github.com/your-org-name/deep-learning-models) | Neural networks & image recognition | TensorFlow, PyTorch |
-| 🔐 [Cybersecurity-Tools](https://github.com/your-org-name/cybersecurity-tools) | Scripts for pentesting & automation | Python, Bash |
-| 🌐 [Network-Scripts](https://github.com/your-org-name/network-scripts) | Networking automation & security testing | Python, Nmap, Wireshark |
+| Project | Description | Libraries/Frameworks |
+|---------|-------------|-----------------------|
+| 🧠 [ml-algorithms](https://github.com/pythons-playground/ml-algorithms) | Implementing ML algorithms from scratch | Scikit-learn, NumPy |
+| 🤖 [deep-learning-models](https://github.com/pythons-playground/deep-learning-models) | Neural networks & computer vision projects | TensorFlow, PyTorch |
+| 🌐 [web-apps](https://github.com/pythons-playground/web-apps) | Python-based full-stack web applications | Django, Flask, FastAPI |
+| 🔐 [cybersecurity-scripts](https://github.com/pythons-playground/cybersecurity-scripts) | Ethical hacking & security tools | Python, Nmap, Paramiko |
+| 📊 [data-science-labs](https://github.com/pythons-playground/data-science-labs) | Data analysis & visualization projects | Pandas, Seaborn, Matplotlib |
 
 ---
 
-## 📊 Tech Stack
+## 📊 Python Ecosystem (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,tensorflow,pytorch,sklearn,mongodb,mysql,postgres,html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,pytorch,sklearn,selenium,git,github,mysql,postgres,sqlite,linux" />
 </p>
 
 ---
 
 ## 🤝 How to Contribute
-We welcome contributions 🚀  
+We welcome Python lovers 🚀  
 1. Fork the repo  
 2. Create a branch (`feature-new`)  
 3. Commit your changes  
@@ -79,4 +78,4 @@ We welcome contributions 🚀
 
 ---
 
-<p align="center">⭐ If you like my projects, give a star and follow my journey! ⭐</p>
+<p align="center">⭐ If you love Python as much as I do, give this org a star and join the journey! ⭐</p>
